@@ -21,7 +21,7 @@ Each hook example is contained within its own folder, complete with detailed com
 To get started with these examples, follow these steps:
 
 1. **Clone the Repository:**
-   git clone https://github.com/yourusername/react-hooks-examples.git
+   git clone https://github.com/Edv-Fendi/hooks.git
 
 2. **Navigate to the Repository:**
    cd react-hooks-examples
